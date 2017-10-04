@@ -1,0 +1,20 @@
+﻿  {
+    "JobName": "Job3",
+    "JobType": "extra-margin",
+    "PrintItems": [
+      {
+        "ItemName": "frisbees",
+        "ApplyTax": false,
+        "Cost": 19385.38
+      },
+      {
+        "ItemName": "yo-yos",
+        "ApplyTax": false,
+        "Cost": 1829.00
+      }
+    ]
+  }
+
+
+
+

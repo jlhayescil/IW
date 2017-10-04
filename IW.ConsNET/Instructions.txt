@@ -1,0 +1,10 @@
+﻿Set IW.Console as the StartUp project and run.
+Files Job1.json, Job2.json, and Job3.json need to be copied to the bin\Debug folder.
+
+Lines 16-28 will print to the console the output based on reading json from the files.
+Line 30 calls method GetJobs() which was the original approach reading the information as lists of PrintItems.
+GetItems may be commented out to only read the data from files.
+
+Project CalculateCharges contains a factory to calculate the charges.
+
+IW.Test has a few tests to verify the margins being calculated.

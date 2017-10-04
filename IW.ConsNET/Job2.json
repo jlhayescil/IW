@@ -1,0 +1,14 @@
+﻿  {
+    "JobName": "Job2",
+    "JobType": "regular",
+    "PrintItems": [
+      {
+        "ItemName": "t-shirts",
+        "ApplyTax": true,
+        "Cost": 294.04
+      }
+    ]
+  } 
+
+
+
