@@ -1,0 +1,17 @@
+﻿  {
+    "JobName": "Job1",
+    "JobType": "extra-margin",
+    "PrintItems": [
+      {
+        "ItemName": "envelopes",
+        "ApplyTax": true,
+        "Cost": 520.00
+      },
+      {
+        "ItemName": "letterhead",
+        "ApplyTax": false,
+        "Cost": 1983.37
+      }
+    ]
+  }
+ 

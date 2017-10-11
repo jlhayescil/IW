@@ -1,0 +1,47 @@
+﻿{
+  "Jobs": [
+    {
+      "JobName": "Job1",
+      "JobType": "extra-margin",
+      "PrintItems": [
+        {
+          "ItemName": "envelopes",
+          "ApplyTax": true,
+          "Cost": 520.00
+        },
+        {
+          "ItemName": "letterhead",
+          "ApplyTax": false,
+          "Cost": 1983.37
+        }
+      ]
+    },
+    {
+      "JobName": "Job2",
+      "JobType": "regular",
+      "PrintItems": [
+        {
+          "ItemName": "t-shirts",
+          "ApplyTax": true,
+          "Cost": 294.04
+        }
+      ]
+    },
+    {
+      "JobName": "Job3",
+      "JobType": "extra-margin",
+      "PrintItems": [
+        {
+          "ItemName": "frisbees",
+          "ApplyTax": false,
+          "Cost": 19385.38
+        },
+        {
+          "ItemName": "yo-yos",
+          "ApplyTax": false,
+          "Cost": 1829.00
+        }
+      ]
+    }
+  ]
+}
